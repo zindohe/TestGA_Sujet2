@@ -9,6 +9,7 @@ Un programme en Python permettant de récupérer et stocker dans un Google Sheet
  - Python 3.7 ou plus récent
  - Un fichier `credentials.json` récupérable ici https://developers.google.com/sheets/api/quickstart/python et à placer dans le dossier `doc`
  - Un compte Google afin d'utiliser l'API Google Sheets et d'accèder au fichier
+ - Installer les librairies python indiquées dans `requirements.txt`
 
 ### Utilisation
 ```shell script
@@ -26,6 +27,7 @@ A Python program that get and write in a Google Sheet at a regular interval ever
  - Python 3.7 or later
  - A file `credentials.json` that you can get here : https://developers.google.com/sheets/api/quickstart/python and you have to put it in the `doc` folder
  - A Google account to use the Google Sheets API and to access the file
+ - Install python libraries in `requirements.txt`
 
 ### Usage
 ```shell script
